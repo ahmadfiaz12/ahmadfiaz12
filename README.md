@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Ahmad Fiaz!
 
 I am a dedicated **Front-End Developer** with a passion for creating engaging, scalable, and user-friendly web applications. Leveraging modern tools and technologies, I craft seamless digital experiences with precision and creativity.
 
@@ -36,6 +36,6 @@ With a strong foundation in front-end development, I focus on:
 
 ## 📫 Let's Connect
 - **Portfolio:** [YourPortfolioLink](#)
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Email:** [ahmadfiaz.9089@example.com](mailto:ahmadfiaz.9089@example.com)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss exciting projects. Together, we can bring ideas to life! 🌟
