@@ -1,11 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ahmad Fiaz</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Hi there 👋, I'm [Your Name]!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadfiaz12&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadfiaz12" /> </p>
+I am a dedicated **Front-End Developer** with a passion for creating engaging, scalable, and user-friendly web applications. Leveraging modern tools and technologies, I craft seamless digital experiences with precision and creativity.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Skills & Expertise
+
+### **Languages**
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**
+
+### **Frameworks & Libraries**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React.js**
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) **Next.js**
+
+### **Styling Tools**
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **TailwindCSS**
+- ![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white) **Mantine Design System**
+
+### **Specializations**
+- ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-00C853?style=flat-square&logo=responsive&logoColor=white) **Responsive Web Design**
+- ![Performance](https://img.shields.io/badge/-Performance%20Optimization-FF6F00?style=flat-square&logo=optimization&logoColor=white) **Web Performance**
+
+---
+
+## 🚀 What I Bring
+With a strong foundation in front-end development, I focus on:
+- Crafting **pixel-perfect UIs** with attention to detail.
+- Ensuring **cross-browser compatibility** for consistent user experiences.
+- Building **responsive designs** that adapt beautifully to any screen size.
+
+---
+
+## 📫 Let's Connect
+- **Portfolio:** [YourPortfolioLink](#)
+- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate or discuss exciting projects. Together, we can bring ideas to life! 🌟
